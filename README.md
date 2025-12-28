@@ -1,4 +1,4 @@
-# 🚀 Infrastructure as Code using Terraform (AWS)
+# Infrastructure as Code using Terraform (AWS)
 
 ## 🧱 Final Architecture
 ```
@@ -98,7 +98,14 @@ terraform apply
 Type **yes** when prompted.
 
 ---
+## terraform files and terraform init
+![Shop Invoice Application](screenshot/1.png)
 
+## terraform apply
+![Shop Invoice Application](screenshot/2.png)
+
+## Terraform Output Create Instances
+![Shop Invoice Application](screenshot/4.png)
 ## 🌐 Access Application
 
 ```bash
@@ -110,7 +117,7 @@ http://<ALB_DNS_NAME>
 ```
 
 ---
-
+![Shop Invoice Application](screenshot/3.png)
 ## 🧹 Destroy Infrastructure
 
 ```bash
